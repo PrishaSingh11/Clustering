@@ -68,7 +68,7 @@ Each model's performance across different preprocessing techniques and cluster s
 ## 📁 Files Included
 
 - `clustering_results.csv` – Final result table with all configurations  
-- `clustering_Silhouette.png` – Saved plots for each metric/model  
+- Saved plots for each metric/model  
 - Jupyter Notebook / Colab Notebook for reproducibility
 
 
